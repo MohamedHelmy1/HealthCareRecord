@@ -17,3 +17,5 @@ appointment.
 • Web site that display information about hospital and make patient to make online
 
 appointment and register by themselves
+
+•mange  employee vacations
